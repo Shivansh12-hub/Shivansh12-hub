@@ -1,18 +1,111 @@
-# 💫 About Me:
-I am currently working and learning as to become a <br>full stack MERN Developer. As a Second Year student here in <br>AKGEC enrolled in b-tech with branch CSE, i would like to work <br>as a developer.
+<h1 align="center">Hi 👋, I'm Shivansh Gupta</h1>
 
+<h3 align="center">
+Full Stack MERN Developer • Backend Enthusiast • CSE Student @ AKGEC
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.shivansh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh1208) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shivanshcoc11) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32109754) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshgupta2028@gmail.com) 
+<p align="center">
+Building scalable web applications, REST APIs, and real-world projects using the MERN Stack.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivansh12-hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shivansh12-hub&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh12-hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="mailto:shivanshgupta2028@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/shivansh1208">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/_mr.shivansh__">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivansh12-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 B.Tech CSE Student at **Ajay Kumar Garg Engineering College (AKGEC)**
+* 💻 Full Stack MERN Developer
+* 🌱 Currently learning **System Design, AWS, Docker & Advanced Backend Development**
+* ⚡ Interested in **Backend Engineering, Cloud Computing & Scalable Systems**
+* 🎯 Goal: Become a professional Software Engineer and contribute to impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square\&logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square\&logo=reactquery)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square\&logo=react-router)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socket.io)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square\&logo=npm)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 StudyNotion
+
+Full Stack EdTech Platform built with MERN Stack featuring authentication, course management, progress tracking, and role-based access control.
+
+### 🚑 RapidCare
+
+AI-powered emergency response platform with smart triage, hospital recommendation, and real-time assistance.
+
+### 🎮 Game Recommendation System
+
+Machine Learning-based recommendation engine using KNN, FastAPI, React, Node.js, and MongoDB.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivansh12-hub&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh12-hub&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shivansh12-hub&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:shivanshgupta2028@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/shivansh1208">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/32109754">Stack Overflow</a> •
+  <a href="https://instagram.com/_mr.shivansh__">Instagram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building scalable solutions, learning continuously, and growing one project at a time."</i>
+</p>
